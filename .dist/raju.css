@@ -1,0 +1,19 @@
+#navi{
+    height: 60px;
+    background-color: #0f1111;
+}
+a{
+    margin-right: 200px;
+    color: white;
+    text-decoration: none;
+}
+button{
+    background-color: #f08804;
+    color: white;
+}
+#m{
+    text-size:25px;
+    color: #f08804;
+}
+
+
